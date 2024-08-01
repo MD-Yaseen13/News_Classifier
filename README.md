@@ -37,8 +37,3 @@ This project aims to classify news articles as either fake or true using machine
 5. **Prediction:**
    - Use the trained model to classify new, unseen news articles.
 
-## Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/username/news-classification.git
